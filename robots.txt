@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dcassina.sbs/sitemap.xml
